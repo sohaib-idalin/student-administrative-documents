@@ -1,0 +1,1 @@
+// To use the executable file you must copy the res folder in the dist folder
